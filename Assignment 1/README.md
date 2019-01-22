@@ -2,7 +2,7 @@
 
 ## Tasks
 
-The problem statement is given in `1.pdf`.
+The tasks are given in `1.pdf`.
 
 ## Solution
 
