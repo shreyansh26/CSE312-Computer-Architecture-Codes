@@ -16,7 +16,7 @@ The tasks are given in `1.pdf`.
 2. Load [add2.s](add2.s)
 3. Press **run** to see the output on the console. Also the register values can also be seen to have changed.
 
-## Task 3
+### Task 3
 1. Open up qtspim - `qtspim`
 2. Load the file **add2.s** - File → Reinitialise and Load File → [add2.s](add2.s)
 3. To step through each instruction, use the "Singele Step" button
