@@ -3,7 +3,7 @@
 This repository contains codes related to the Computer Architecture Course taught in 6th Sem at IIT (BHU), Varanasi.
 
 ## Software Required
-* xspim - `sudo apt install xspim`
+* xspim - `sudo apt install spim`
 * qtspim - Download from [SourceForge](https://sourceforge.net/projects/spimsimulator/files/qtspim_9.1.20_linux64.deb/download). Then `sudo dpkg -i qtspim_9.1.20_linux64.deb`
 
 ## How to run
