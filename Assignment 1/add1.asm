@@ -8,7 +8,6 @@ main:
 	li $t1, 2
 	add $t2, $t0, $t1
 
-	# jr $ra
 	li $v0, 4
 	la $a0, str
 	syscall
